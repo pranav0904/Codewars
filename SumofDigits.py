@@ -1,5 +1,7 @@
 '''
-Problem:  Sum of Digits / Digital Root
+Author: Pranav Khiste
+
+Task:  Sum of Digits / Digital Root
 
 Digital root is the recursive sum of all the digits in a number.
 
